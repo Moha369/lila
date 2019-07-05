@@ -570,6 +570,7 @@ object Quote {
     new Quote("I don't berserk, I am not a caveman", "Magnus Carlsen"),
     new Quote("1.e4 is the move you play when you're young, naive, and believe the world owes you something. Open positions, infinite horizons - what's not to love? Well, I've got news for you, buddy: it's a cruel chess board out there.", "John Bartholomew"),
     new Quote("Chess as a game is too serious; as a serious pursuit too frivolous.", "Moses Mendelssohn"),
+    new Quote("Everyone wants to sleep, wants to eat, wants to prepare a little bit, and the only task is to combine it correctly - not to oversleep, overeat and not to overprepare for sure.", "Ian Nepomniachtchi"),
 
     // lichess facts
     new Quote("All features for free; for everyone; forever.", "lichess.org"),
